@@ -6,6 +6,10 @@ This is a software for generating and presenting stimuli for visual neuroscience
 *Note, this is still a beta version.*
 *For disclaimer, see [here](http://qdspy.eulerlab.de/disclaimer.html#disclaimer-of-warranty).*
 
+Please find more details in the following publication:
+
+Franke K*, Maia Chagas A*, Zhao Z, Zimmermann MJY, Bartel P, Qiu Y, Szatko K, Baden T, Euler T# (2019). An arbitrary-spectrum spatial visual stimulator for vision research. eLife 2019;8:e48779, 10.7554/eLife.48779.
+
 ### Documentation
 
 For documentation, see [here](http://qdspy.eulerlab.de).  
